@@ -1,3 +1,8 @@
 body{
     background-color: aqua;
 }
+.right{
+    display: flex;
+    justify-content: space-between;
+    justify-items: end;
+}
